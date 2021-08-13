@@ -9,3 +9,4 @@ Some of my interests: :books: :camera: :film_strip: :earth_americas: :world_map:
 * :email: t.statella@gmail.com
 * :spider_web: [My website](https://sites.google.com/view/statella/)
 * :tv: [My YouTube channel](https://www.youtube.com/channel/UCsCxLmr-UDb4OYG2YqpXKyw)
+* 🔗 [My Linkedin](www.linkedin.com/in/tstatella)
